@@ -1,0 +1,19 @@
+{
+  "name": "project-a",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/camhux/test-umbrella.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/camhux/test-umbrella/issues"
+  },
+  "homepage": "https://github.com/camhux/test-umbrella#readme"
+}
